@@ -20,11 +20,18 @@ Kickstarter goals under $5000 had an average success rate of 74%, significantly 
 One challenge in this analysis is interpreting the statistical significance between success rates based on goals. Knowing statistical significance here would increase the rigor of the recommendations.
 ## Results
 
-#- What are two conclusions you can draw about the Outcomes based on Launch Date?
+# What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 Kickstarters under the Theater category, from 2009-2017 in Great Brittan, were most successful if they launched in May. Projects launched in December, however, are most likely to fail.
-#- What can you conclude about the Outcomes based on Goals?
+
+# What can you conclude about the Outcomes based on Goals?
+
 Projects with goals greater than $45,000 are most likely to fail, followed by projects with goals between $25,000-$35,000. Projects with goals less than $5,000 have the greatest success rate.
-#- What are some limitations of this dataset?
+
+# What are some limitations of this dataset?
+
 There are only 1,112 projects in the theater category, by incorporating a larger dataset, different trends may become clear. We also have no analyzed marco-economic trends - (e.g. did a recession in a given year cause theater support to decrease?
-#- What are some other possible tables and/or graphs that we could create?
+
+# What are some other possible tables and/or graphs that we could create?
+
 Comparison of success based on year to draw inferences based on larger economic trends (e.g. do success rates change in election years?). Do types of theater campaigns result in different outcomes? Do the descriptions play an important role?
